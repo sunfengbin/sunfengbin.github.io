@@ -1,5 +1,8 @@
 [book]
-authors = ["sunfengbin"]
-language = "en"
+titlwe="note"
+authors = "[Ëï·î±ó]"
+language = "zh-CN"
 multilingual = false
 src = "src"
+[build]
+build-dir="docs"
